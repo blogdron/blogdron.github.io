@@ -1,6 +1,0 @@
-#test
-
-
-```c
-somecode();
-```
